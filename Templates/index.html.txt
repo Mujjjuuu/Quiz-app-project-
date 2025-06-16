@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Quiz App</title>
+</head>
+<body>
+    <h1>Welcome to the Quiz App!</h1>
+    <p>This is a simple Flask quiz learning app.</p>
+    <p>Try the API endpoints for quizzes and results.</p>
+    <a href="/api/quizzes/1/download">Download Example Quiz Result PDF</a>
+</body>
+</html>
